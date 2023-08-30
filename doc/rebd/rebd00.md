@@ -17,5 +17,5 @@ _(Don't forget to add the group elements)_
 
 ---
 _You can add a footer menu for navigation_ 
-< Previous | [^ Main](https://github.com/exemploTrabalho/reportSIBD/) | [Next >](rebd01.md)
+< Previous | [^ Main](/../../) | [Next >](rebd01.md)
 :--- | :---: | ---: 
