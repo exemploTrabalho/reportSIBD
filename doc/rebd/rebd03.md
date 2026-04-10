@@ -1,10 +1,9 @@
-# C3 : Normalização
+# C3 : Do Modelo EA a Relação
 
-## Relações
-_(Apresentar as relações obtidas da transformação direta a partir do modelo EA)_
+## Processo
+_(Apresentar e justificar através do processo aprendido, as relações obtidas da transformação direta a partir do modelo EA)_
 
-## Normalização do Esquema Relacional
-_(Apresentar o estudo da normalização das relações obtidas na secção anterior. Desnormalizar se necessário.)_
+
 
 ---
 [< Previous](rebd02.md) | [^ Main](/../../) | [Next >](rebd04.md)
